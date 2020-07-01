@@ -1,0 +1,155 @@
+body{
+    margin: 0px;
+
+    font-family: 'Poppins', sans-serif;
+}
+.font-size{
+    font-size: 30px;
+    padding-top: 10%;
+}
+#font{
+    padding-top: 2%;
+    font-size: 40px;
+    color:rgb(246, 107, 131) ;
+}
+p{
+    text-align: justify;
+    
+}
+.name{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+#padding{
+    padding-top: 12%;
+}
+.half-width{
+    padding-top: 5%;
+}
+.half-width img{
+    width: 80%;
+    
+}
+.top-banner{
+    
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+
+    height: 500px;
+    padding-bottom: 150px;
+
+}.link-button{
+    text-decoration: none;
+    background-color: rgb(246, 107, 131);
+    color: white;
+    padding: 15px 30px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.second{
+
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    display: block;
+}
+#center{
+    text-align: center;
+    padding-top: 5%;
+    font-size: 40px;
+    
+}
+
+#third-div{
+    background-image: url("images/letest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    height: 450px;
+    float: left;
+   
+   
+    
+}
+#third-img{
+    width: 29%;
+    position: relative;
+    top: 10%;
+    left: 6%;
+    
+}
+#third-imge{
+    width: 29%;
+    position: relative;
+    left: 36%;
+    bottom: 52%;
+    
+}
+#third-imges{
+    width:29%;
+    position: relative;
+    left: 66%;
+    bottom: 115%;
+
+}
+div img{
+    width: 100%;
+}
+.senter{
+    text-align: center;
+    font-size: 30px;
+}
+#last-footer{
+    background-image: url("images/footer-bg.png");
+    height: 500px;
+    width: 100%;
+   
+    float: left;
+}
+#asif{
+    font-size: 30px;
+    text-align: center;
+}
+#mama{
+    text-align: center;
+}
+#khala{
+    text-align: center;
+
+}
+#mami{
+    text-align: center;
+    color: white;
+}
+#vai{
+    text-align: center;
+    color: white;
+}
+#width{
+    width: 32%;
+    height: 15%;
+   
+    margin: auto;
+    
+}
+#width p{
+    text-align: center;
+}
+#blooges{
+
+    width: 46%;
+    height: 26%;
+    border-radius: 5px;
+    margin: auto;
+    background-color: rgb(224, 99, 120);
+    ruby-align: center;
+    padding-top: 1%;
+    
+}
